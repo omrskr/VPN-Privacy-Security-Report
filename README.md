@@ -65,7 +65,7 @@ To understand the role of VPNs in protecting privacy and secure communication us
 
 > 📸 **VPN Connection + IP Change Verification**
 
-![VPN Connected](images/vpn-connected-screenshot.png)
+
 
 ---
 
